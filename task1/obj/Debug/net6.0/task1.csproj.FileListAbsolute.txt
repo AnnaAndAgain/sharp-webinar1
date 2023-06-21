@@ -1,0 +1,15 @@
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\bin\Debug\net6.0\task1.exe
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\bin\Debug\net6.0\task1.deps.json
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\bin\Debug\net6.0\task1.dll
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\bin\Debug\net6.0\task1.pdb
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\task1.dll
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\refint\task1.dll
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\task1.pdb
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+F:\Anna\2023\учеба\3_C_sharp\webinar-1\task1\obj\Debug\net6.0\ref\task1.dll
